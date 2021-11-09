@@ -42,4 +42,5 @@ public class MapParserTest {
         mapParser.parseMap(map);
         Mockito.verify(levelFactory, Mockito.times(1)).createGhost();
     }
+
 }

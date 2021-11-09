@@ -101,3 +101,4 @@ task staticAnalysis(type: GradleBuild) {
 }
 
 mainClassName = 'nl.tudelft.jpacman.Launcher'
+
